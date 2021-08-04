@@ -8,5 +8,5 @@ public class Constants {
     //用例Excel文件地址
     public static final String EXCEL_PATH="src\\test\\resources\\api_testcases_futureloan_v2.xls";
     //控制台日志输出开关（true->输出到控制台，false->不输出到控制台）
-    public static final boolean SHOW_CONSOLE_LOG=true;
+    public static final boolean SHOW_CONSOLE_LOG=false;
 }
